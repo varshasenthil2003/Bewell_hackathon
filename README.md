@@ -62,7 +62,6 @@ myproject/                          -- Root directory of your Django project
 
 ## Sample Filled Forms
 - [Filled Sample Form 1](https://github.com/varshasenthil2003/Bewell_hackathon/blob/main/filled_form_S.pdf)
-- 
 - ### Watch the Demo Video
 [![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://github.com/varshasenthil2003/Bewell_hackathon/blob/main/mysql.mp4)
 [![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://github.com/varshasenthil2003/Bewell_hackathon/blob/main/forms.mp4)
